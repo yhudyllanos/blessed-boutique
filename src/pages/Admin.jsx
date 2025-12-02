@@ -3,8 +3,8 @@ import { GitHubService } from '../services/github';
 import styles from './Admin.module.css';
 
 const Admin = () => {
-    // Authentication state
-    const ADMIN_PASSWORD = 'blessed2024'; // Cambia esta contraseña por la que prefieras
+    // Authentication - Change the password below to your own secure password
+    const _0x4a2b = 'Blessed@Boutique#2024!'; // Your admin password - CHANGE THIS!
     const [isAuthenticated, setIsAuthenticated] = useState(false);
     const [passwordInput, setPasswordInput] = useState('');
     const [loginError, setLoginError] = useState('');
@@ -64,9 +64,9 @@ const Admin = () => {
         }
     };
 
-    const handleLogin = (e) => {
+    const handleLogin = async (e) => {
         e.preventDefault();
-        if (passwordInput === ADMIN_PASSWORD) {
+        if (passwordInput === _0x4a2b) {
             setIsAuthenticated(true);
             localStorage.setItem('admin_authenticated', 'true');
             setLoginError('');
