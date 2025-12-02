@@ -123,5 +123,27 @@
       "waist": "34",
       "length": "56"
     }
+  },
+  {
+    "id": "1764651873479",
+    "name": "Vestido De dama ",
+    "category": "Faldas",
+    "price": 568,
+    "sizes": [
+      "S",
+      "M",
+      "XL"
+    ],
+    "description": "descripcion del vestio de dama ",
+    "images": [
+      "https://raw.githubusercontent.com/blessedboutique/catalogo/main/public/images/1764651871236_Imagen-de-WhatsApp-2025-12-02-a-las-00.15.43_a5d5f105.jpg",
+      "https://raw.githubusercontent.com/blessedboutique/catalogo/main/public/images/1764651872742_Imagen-de-WhatsApp-2025-12-02-a-las-00.15.42_cd7afa9c.jpg"
+    ],
+    "status": "available",
+    "measurements": {
+      "bust": "54",
+      "waist": "32",
+      "length": "12"
+    }
   }
 ]
