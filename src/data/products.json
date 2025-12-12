@@ -42,24 +42,24 @@
     }
   },
   {
-    "id": "3",
-    "name": "Vestido de Noche Elegante",
-    "category": "Vestidos",
-    "price": 250,
+    "id": "1765508613539",
+    "name": "Falda tull ",
+    "category": "Faldas",
+    "price": 75,
     "sizes": [
       "S",
-      "Sm",
       "M"
     ],
-    "description": "Vestido largo para ocasiones especiales. Detalles en encaje.",
+    "description": "FALDA TULL\n2 CAPAS DE TULL\nFORRO INTERNO\nCINTURA ELÁSTICA",
     "images": [
-      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+      "https://raw.githubusercontent.com/blessedboutique/catalogo/main/public/images/1765508605826_20251201_204858(1).jpg",
+      "https://raw.githubusercontent.com/blessedboutique/catalogo/main/public/images/1765508610265_20251201_205516.jpg"
     ],
     "status": "available",
     "measurements": {
-      "bust": "88cm",
-      "waist": "68cm",
-      "length": "140cm"
+      "bust": "",
+      "waist": "",
+      "length": "62 cm"
     }
   }
 ]
